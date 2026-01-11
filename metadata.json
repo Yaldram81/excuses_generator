@@ -1,0 +1,5 @@
+{
+  "name": "Excuse Generator",
+  "description": "A behavioral accountability system that treats excuses as finite social capital, tracking the interest on your honesty debt.",
+  "requestFramePermissions": []
+}
